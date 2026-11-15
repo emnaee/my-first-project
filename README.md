@@ -1,4 +1,7 @@
 # My First Project
+
 Welcome to my first project!
-##About
+
+## About
+
 This is my first project on GitHub.
